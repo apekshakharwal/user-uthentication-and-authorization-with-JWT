@@ -1,1 +1,2 @@
-# user-uthentication-and-authorization-with-JWT
+# Node.js and Mongodo - 
+User authentication and authorization with JWT
