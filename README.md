@@ -11,5 +11,7 @@ JWT(JSON Web Token) is a token format, it is a concise and self-contained method
 - mongoose 
 - MongoDB
 
-# How to create project
-```npm init```
+## How to create project
+```
+npm init --y
+```
